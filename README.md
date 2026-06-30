@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0898-transpose-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0898-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
