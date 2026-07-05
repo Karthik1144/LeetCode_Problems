@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0898-transpose-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Backtracking
