@@ -125,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
