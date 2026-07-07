@@ -121,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
