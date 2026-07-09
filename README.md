@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -130,4 +131,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0184-department-highest-salary](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0184-department-highest-salary) |
 | [1948-rearrange-products-table](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1948-rearrange-products-table) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
