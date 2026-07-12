@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0184-department-highest-salary) |
+| [0584-find-customer-referee](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0584-find-customer-referee) |
 | [1948-rearrange-products-table](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1948-rearrange-products-table) |
 ## Linked List
 |  |
