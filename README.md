@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Matrix
 |  |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Database
