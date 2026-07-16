@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0175-combine-two-tables) |
 | [0184-department-highest-salary](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1908-recyclable-and-low-fat-products) |
