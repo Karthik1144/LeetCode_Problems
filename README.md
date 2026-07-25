@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1222-remove-covered-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1222-remove-covered-intervals) |
+| [3859-maximum-product-of-two-digits](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0062-unique-paths) |
+| [3859-maximum-product-of-two-digits](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4242-sum-of-gcd-of-formed-pairs) |
