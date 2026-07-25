@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [3859-maximum-product-of-two-digits](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Database
@@ -255,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
