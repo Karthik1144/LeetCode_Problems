@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0898-transpose-matrix) |
+| [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1222-remove-covered-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1222-remove-covered-intervals) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
 | [3859-maximum-product-of-two-digits](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -305,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
