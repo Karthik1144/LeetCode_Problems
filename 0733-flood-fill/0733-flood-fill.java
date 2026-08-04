@@ -1,5 +1,10 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+
+
+        //can be done with dfs in better way
+
+
         if(image.length==0)
             return image;
 
