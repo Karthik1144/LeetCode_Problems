@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0216-combination-sum-iii) |
+| [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0733-flood-fill) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1036-rotting-oranges) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1036-rotting-oranges) |
