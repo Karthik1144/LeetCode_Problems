@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4289-valid-binary-strings-with-cost-limit](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4289-valid-binary-strings-with-cost-limit) |
 ## Binary Search Tree
