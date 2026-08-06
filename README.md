@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1222-remove-covered-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1222-remove-covered-intervals) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 ## Combinatorics
 |  |
 | ------- |
