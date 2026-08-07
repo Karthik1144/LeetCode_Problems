@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -382,8 +385,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
