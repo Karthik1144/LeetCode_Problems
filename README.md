@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4107-find-missing-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4107-find-missing-elements) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4289-valid-binary-strings-with-cost-limit](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4289-valid-binary-strings-with-cost-limit) |
 ## Matrix
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Quickselect
 |  |
 | ------- |
