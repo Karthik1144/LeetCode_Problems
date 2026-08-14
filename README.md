@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1222-remove-covered-intervals) |
+| [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2714-left-and-right-sum-differences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2714-left-and-right-sum-differences) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -304,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -345,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 ## Combinatorics
 |  |
 | ------- |
@@ -364,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -418,4 +425,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
