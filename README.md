@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0216-combination-sum-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0724-find-pivot-index) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -89,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -121,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -208,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
@@ -215,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -439,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
