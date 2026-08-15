@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2714-left-and-right-sum-differences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2714-left-and-right-sum-differences) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4107-find-missing-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4107-find-missing-elements) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4289-valid-binary-strings-with-cost-limit](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4289-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
 |  |
