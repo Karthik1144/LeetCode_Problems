@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -441,9 +444,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0744-network-delay-time](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
