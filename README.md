@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0216-combination-sum-iii) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
@@ -389,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
 ## Enumeration
 |  |
 | ------- |
@@ -490,4 +495,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
