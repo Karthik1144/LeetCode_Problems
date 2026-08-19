@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
+| [1922-count-good-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1922-count-good-numbers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0394-decode-string) |
+| [1922-count-good-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1922-count-good-numbers) |
 ## Number Theory
 |  |
 | ------- |
