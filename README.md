@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0394-decode-string) |
 ## Number Theory
 |  |
