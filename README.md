@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -284,11 +285,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0394-decode-string) |
 ## Number Theory
 |  |
 | ------- |
