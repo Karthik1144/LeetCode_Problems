@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0744-network-delay-time) |
@@ -410,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Game Theory
 |  |
@@ -503,4 +507,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
