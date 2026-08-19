@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0200-number-of-islands) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4242-sum-of-gcd-of-formed-pairs) |
