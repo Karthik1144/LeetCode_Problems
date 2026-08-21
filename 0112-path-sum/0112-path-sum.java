@@ -32,9 +32,9 @@ class Solution {
         }   
 
         sum += root.val;
+
         boolean left = dfs(root.left,targetSum,sum);
-        sum -= root.val;
-        boolean right =dfs(root.right,targetSum,sum+root.val);
+        boolean right =dfs(root.right,targetSum,sum);
 
         if(!left && !right)
             return false;
