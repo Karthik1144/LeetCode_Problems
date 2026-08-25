@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
