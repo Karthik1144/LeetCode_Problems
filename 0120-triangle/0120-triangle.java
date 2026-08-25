@@ -6,16 +6,14 @@ class Solution {
         for(int row[]:dp)
             Arrays.fill(row,(int)1e9);
 
-        int colSum = 0;
-        for(int i=0;i<n;i++){
-            colSum += triangle.get(i).get(0);
-            dp[i][0] = colSum;
+        dp[0][0] = triangle.get(0).get(0);
+        for(int i=1;i<n;i++){
+            dp[i][0] = dp[i-1][0] + triangle.get(i).get(0);
         }
 
         for(int i=1;i<n;i++){
-            for(int j=1;j<m;j++){
-                if(j>i)
-                    continue;
+            for(int j=1;j<triangle.get(i).size();j++){
+
 
                 int top = dp[i-1][j]+triangle.get(i).get(j);
 
