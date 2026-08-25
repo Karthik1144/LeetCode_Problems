@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
