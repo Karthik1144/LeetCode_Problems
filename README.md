@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [4289-valid-binary-strings-with-cost-limit](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4289-valid-binary-strings-with-cost-limit) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -596,8 +599,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
