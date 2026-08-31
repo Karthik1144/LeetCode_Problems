@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4289-valid-binary-strings-with-cost-limit](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4289-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
