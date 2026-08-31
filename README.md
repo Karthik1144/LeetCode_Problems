@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1222-remove-covered-intervals) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1922-count-good-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -557,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Quickselect
 |  |
