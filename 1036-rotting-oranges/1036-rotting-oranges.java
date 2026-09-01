@@ -1,48 +1,45 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        if(grid.length==0)
-            return 0;
-
-        int n = grid.length , m  = grid[0].length;
-        int total = 0 ;
-        int count = 0;
+        int m = grid.length , n = grid[0].length;
 
         Queue<int[]> q = new LinkedList<>();
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j] != 0)
-                    total++;
-                
-                if(grid[i][j] == 2)
+        int totOranges = 0 , rotten = 0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j] == 1 || grid[i][j] == 2)
+                    totOranges++;
+
+                if(grid[i][j] == 2 ){
+                    rotten++;
                     q.offer(new int[]{i,j});
+                }
             }
         }
 
         int dx[] = {0,0,1,-1};
         int dy[] = {1,-1,0,0};
 
-        int days = 0;
+        int time = 0;
         while(!q.isEmpty()){
-            int k = q.size();
-            count += k;
-            for(int i=0;i<k;i++){
-                int pos[] = q.poll();
-                int x = pos[0] , y = pos[1];
+            int size = q.size();
+            for(int i=0;i<size;i++){
+                int[] curr = q.poll();
+                int row = curr[0] , col = curr[1];
 
                 for(int d=0;d<4;d++){
-                    int nx = x + dx[d];
-                    int ny = y + dy[d];
+                    int nrow = row+dx[d] ,ncol = col + dy[d];
 
-                    if(nx<0 || ny<0 ||nx>=n ||ny>=m || grid[nx][ny]!=1 )
-                        continue;
-
-                    grid[nx][ny] = 2;
-                    q.offer(new int[]{nx,ny});
+                    if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol] ==1){
+                        grid[nrow][ncol] = 2;
+                        rotten++;
+                        q.offer(new int[]{nrow,ncol});
+                    }
                 }
-            }
-            if(!q.isEmpty())    days++;
+            } 
+            time++;
         }
-        return total==count ? days : -1;
+
+        return totOranges == (rotten) ? time-1 :  -1;
     }
 }
