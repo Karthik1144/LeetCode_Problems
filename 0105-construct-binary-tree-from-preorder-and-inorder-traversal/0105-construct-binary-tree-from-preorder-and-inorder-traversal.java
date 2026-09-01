@@ -19,21 +19,19 @@ class Solution {
         for(int i=0;i<inorder.length;i++)
             map.put(inorder[i],i);
 
-        return helper(preorder,0,preorder.length-1,inorder,0,inorder.length-1,map);
+        return construct(0,preorder.length-1,preorder,0,inorder.length-1,inorder,map);
     }
-    public TreeNode helper(int[] preorder,int preStart,int preEnd,int[] inorder,int inStart,int inEnd,HashMap<Integer,Integer> map){
-        if(preStart>preEnd || inStart>inEnd)   
+    public TreeNode construct(int preStart,int preEnd,int[] preOrder,int inStart,
+    int inEnd,int[] inOrder,HashMap<Integer,Integer> map){
+        if(preStart > preEnd || inStart > inEnd)
             return null;
 
-        TreeNode root = new TreeNode(preorder[preStart]);
-
+        TreeNode root = new TreeNode(preOrder[preStart]);
         int inRoot = map.get(root.val);
         int numLeft = inRoot-inStart;
 
-        root.left = helper(preorder, preStart+1, preStart+numLeft, inorder, inStart, inRoot-1, map);
-
-        root.right = helper(preorder,preStart+numLeft+1,preEnd, inorder, inRoot+1, inEnd, map);
-
+        root.left = construct(preStart+1, preStart+numLeft, preOrder, inStart,inRoot-1,inOrder,map );
+        root.right = construct(preStart+numLeft+1,preEnd,preOrder,inRoot+1,inEnd,inOrder,map);
         return root;
     }
 }
