@@ -1,5 +1,7 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
+        if(grid.length==0)
+            return 0;
         int m = grid.length , n = grid[0].length;
 
         Queue<int[]> q = new LinkedList<>();
@@ -11,7 +13,6 @@ class Solution {
                     totOranges++;
 
                 if(grid[i][j] == 2 ){
-                    rotten++;
                     q.offer(new int[]{i,j});
                 }
             }
@@ -23,6 +24,7 @@ class Solution {
         int time = 0;
         while(!q.isEmpty()){
             int size = q.size();
+            rotten += size;
             for(int i=0;i<size;i++){
                 int[] curr = q.poll();
                 int row = curr[0] , col = curr[1];
@@ -32,14 +34,14 @@ class Solution {
 
                     if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol] ==1){
                         grid[nrow][ncol] = 2;
-                        rotten++;
                         q.offer(new int[]{nrow,ncol});
                     }
                 }
             } 
-            time++;
+            if(!q.isEmpty())
+                time++;
         }
 
-        return totOranges == (rotten) ? time-1 :  -1;
+        return totOranges == (rotten) ? time :  -1;
     }
 }
