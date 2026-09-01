@@ -15,15 +15,23 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return check(root,Long.MIN_VALUE,Long.MAX_VALUE);
-    }
-    public boolean check(TreeNode root,long min,long max){
-        if(root==null)
+        if(root.left == null  && root.right == null)
             return true;
-        
-        if(root.val<=min || root.val>=max)
+        return find(root,Long.MAX_VALUE,Long.MIN_VALUE);
+    }
+    public boolean find(TreeNode root,long min,long max){
+        if(root == null )
+            return true;
+
+        boolean left = find(root.left,root.val,max);
+        boolean right = find(root.right,min,root.val);
+
+        if(left == false || right == false)
             return false;
 
-        return check(root.left,min,root.val) && check(root.right,root.val,max);
+        if(root.val >= min || root.val <= max)
+            return false;
+        
+        return true;
     }
 }
