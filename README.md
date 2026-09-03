@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0724-find-pivot-index) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0917-boats-to-save-people](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
@@ -298,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -689,7 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯vka's Algorithm
+## BorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
@@ -700,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 ## Timsort
 |  |
