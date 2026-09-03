@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0051-n-queens) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
@@ -679,12 +681,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÃÂ¯vka's Algorithm
+## BorÃÂÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
