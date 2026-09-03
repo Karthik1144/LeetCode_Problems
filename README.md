@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1222-remove-covered-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1222-remove-covered-intervals) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
@@ -662,4 +665,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
+## BorÅ¯vka's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
