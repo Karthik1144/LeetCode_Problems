@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0120-triangle) |
@@ -677,8 +679,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÅ¯vka's Algorithm
+## BorÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
