@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0909-stone-game) |
+| [0917-boats-to-save-people](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1036-rotting-oranges) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0917-boats-to-save-people](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1222-remove-covered-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1222-remove-covered-intervals) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0917-boats-to-save-people](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -686,7 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯vka's Algorithm
+## BorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
@@ -697,4 +700,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0917-boats-to-save-people](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
