@@ -9,4 +9,12 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0619-biggest-single-number) |
 | [2024-calculate-special-bonus](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2024-calculate-special-bonus) |
+## String
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
