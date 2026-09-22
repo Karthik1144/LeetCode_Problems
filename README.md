@@ -17,6 +17,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1801-average-time-of-process-per-machine) |
 | [2024-calculate-special-bonus](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2024-calculate-special-bonus) |
+| [2087-confirmation-rate](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2087-confirmation-rate) |
 ## String
 |  |
 | ------- |
