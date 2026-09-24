@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+## Math
+|  |
+| ------- |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
