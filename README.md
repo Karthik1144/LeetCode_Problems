@@ -13,6 +13,7 @@
 | [0619-biggest-single-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1153-product-sales-analysis-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1390-average-selling-price](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
