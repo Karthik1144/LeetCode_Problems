@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [3811-reverse-degree-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -45,8 +46,13 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
