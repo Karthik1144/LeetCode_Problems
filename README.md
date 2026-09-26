@@ -35,9 +35,18 @@
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
