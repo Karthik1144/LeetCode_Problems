@@ -55,4 +55,20 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
