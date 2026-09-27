@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -70,5 +72,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
