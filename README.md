@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3811-reverse-degree-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
@@ -51,6 +52,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -61,6 +63,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
@@ -93,5 +96,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

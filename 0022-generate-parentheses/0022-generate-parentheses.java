@@ -1,17 +1,17 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        generateAll(n,0,0,"",result);
-        return result;
+        List<String> ans = new ArrayList<>();
+        generate(0,0,"",ans,n);
+        return ans;
     }
-    public void generateAll(int n, int open,int close,String s,List<String> result){
-        if(s.length()==n*2){
-            result.add(s);
+    public void generate(int openCount,int endCount,String curr,List<String> ans , int n){
+        if(curr.length() == n*2){
+            ans.add(curr);
             return;
         }
-        if(open<n)
-            generateAll(n,open+1,close,s+"(",result);
-        if(close<open)
-            generateAll(n,open,close+1,s+")",result);
+        if(openCount<n)
+            generate(openCount+1,endCount,curr+"(",ans,n);
+        if(endCount<openCount)
+            generate(openCount,endCount+1,curr+")",ans,n);
     }
 }
