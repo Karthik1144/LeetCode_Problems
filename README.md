@@ -34,6 +34,7 @@
 | [0020-valid-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3811-reverse-degree-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
@@ -65,6 +66,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -91,11 +93,17 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
