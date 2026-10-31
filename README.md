@@ -47,11 +47,13 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
@@ -123,4 +125,16 @@
 |  |
 | ------- |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
