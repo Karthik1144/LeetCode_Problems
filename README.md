@@ -35,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3811-reverse-degree-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -159,6 +162,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [1014-k-closest-points-to-origin](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
