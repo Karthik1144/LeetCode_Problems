@@ -2,18 +2,18 @@ class Solution {
     public String kthLargestNumber(String[] nums, int k) {
         PriorityQueue<String> pq = new PriorityQueue<>((a, b) -> {
             if (a.length() != b.length()) {
-                return b.length() - a.length();
+                return Integer.compare(a.length(), b.length());
             }
-            return b.compareTo(a);
+            return a.compareTo(b);
         });
 
         for(String str:nums){
             pq.offer(str);
+
+            if(pq.size()>k)
+                pq.poll();
         }
-        while(k>1){
-            pq.poll();
-            k--;
-        }
+
         return pq.poll();
     }
 }
