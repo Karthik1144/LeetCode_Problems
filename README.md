@@ -49,6 +49,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [0414-third-maximum-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
