@@ -52,6 +52,7 @@
 | [0414-third-maximum-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Stack
@@ -145,6 +147,7 @@
 | [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 | [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -194,5 +198,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
