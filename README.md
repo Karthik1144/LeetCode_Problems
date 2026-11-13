@@ -35,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -74,6 +75,7 @@
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,10 +92,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -105,6 +109,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search
 |  |
