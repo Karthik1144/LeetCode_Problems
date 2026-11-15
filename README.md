@@ -57,6 +57,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1646-kth-missing-positive-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3644-minimum-positive-sum-subarray) |
@@ -119,6 +120,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1646-kth-missing-positive-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
 ## Stack
 |  |
 | ------- |
