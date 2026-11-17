@@ -59,6 +59,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1646-kth-missing-positive-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1646-kth-missing-positive-number) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Backtracking
@@ -164,6 +166,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Pigeonhole Principle
 |  |
@@ -213,4 +216,12 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
