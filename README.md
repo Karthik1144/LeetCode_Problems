@@ -39,6 +39,7 @@
 | [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Trie
 |  |
 | ------- |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
