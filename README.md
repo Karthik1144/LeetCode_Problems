@@ -36,6 +36,7 @@
 | [0022-generate-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -159,6 +160,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
@@ -229,5 +231,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
