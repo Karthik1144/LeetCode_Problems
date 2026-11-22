@@ -42,6 +42,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Karthik1144/LeetCode_Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Karthik1144/LeetCode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
