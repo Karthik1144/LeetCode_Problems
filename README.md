@@ -55,6 +55,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0090-subsets-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0523-continuous-subarray-sum) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -161,6 +163,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -194,6 +197,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -219,6 +223,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Karthik1144/LeetCode_Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Design
